@@ -25,3 +25,5 @@ lib/
 ## Скриншоты
 
 
+![photo_2024-12-26_23-22-00](https://github.com/user-attachments/assets/8331cd6f-595c-47bf-b2fe-4140a29c35e8)
+![photo_2024-12-26_23-21-07](https://github.com/user-attachments/assets/f414c283-94fe-4d97-9ebb-f6262404afea)
